@@ -509,7 +509,6 @@
             this.Controls.Add(this.tblES);
             this.Controls.Add(this.tblPrincipal);
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "FormRoundRobin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Round Robin";
